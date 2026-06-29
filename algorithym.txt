@@ -1,6 +1,26 @@
+Laboratory Activity 1: Add Two number
+
 Step 1: Start
 Step 2: Ask the user to enter the first number. Store it as num1
 Step 3: Ask the user to enter the second number. Store as num2.
 Step 4: Compute sum = numb1 + num2.
 Step 5: Display sum.
+Step 6: End.
+
+Laboratory Activity 2: Determine if a student Passed or Failed
+
+Step 1: Start.
+Step 2: Ask the user to enter the grade. Store it as grade.
+Step 3: Check if grade is 60 or above.
+Step 4: If yes, display "Passed".
+Step 5: If no, display "Failed".
+Step 6: End.
+
+Laboratory Activity 3: Determine if a Number is Positive or negative
+
+Step 1: Start.
+Step 2: Ask the user to enter a number. Store it as a number.
+Step 3: Check if number is greater than or equal to 0.
+Step 4: If yes, display "Positive".
+Step 5: If no, display "Negative"
 Step 6: End.
