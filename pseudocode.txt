@@ -1,0 +1,30 @@
+Laboratory Activity 1: Add Two numbers
+
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+End
+
+Laboratory Activity 2: Determine if a Student Passed or Failed
+
+START
+INPUT grade
+IF GRADE >= 60 THEN
+   DISPLAY "Passed"
+ELSE
+   DISPLAY "Failed"
+END IF
+END
+
+Laboratory activity 3: Determine If a Number is Positive or Negative
+
+START
+INPUT number
+IF number >= 0 THEN
+    DISPLAY "Positive"
+ELSE
+    DISPLAY "Negative"
+END IF
+END
